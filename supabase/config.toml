@@ -1,0 +1,2 @@
+[functions.submit-quiz]
+verify_jwt = false
